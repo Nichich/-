@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Win8</title>
+    <style>
+        body{
+            background-color:darkslategray;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .start-button {
+            color: white;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        .user-info {
+            color: white;
+            display: flex;
+            align-items: center;
+        }
+
+        .user-info span {
+            margin-right: 5px;
+        }
+        .container{
+            display: flex;
+            gap: 20px;
+        
+        }
+        .column{
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            width: 254px;
+            height: 100%;
+        }
+        .element{
+            width: 120px;
+            height: 120px;
+            border: 1px solid #000;
+            flex-grow: 0;
+        }
+        .big{
+            width: 254px;
+        }
+        .verybig{
+            width: 254px;
+            height: 254px;
+        }
+        .little{
+            width: 54px;
+            height: 54px;
+        }
+        .bisque{
+            background-color:bisque;
+        }
+        .darkgray{
+            background-color:darkgray;
+        }
+        .lightgreen{
+            background-color:lightgreen;
+        }
+        .lightsalmon{
+            background-color:lightsalmon;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<header>
+    <div class="start-button">Start</div>
+        <div class="user-info">
+            <span>User</span>
+            <i class="fas fa-user-circle"></i>
+        </div>
+</header>
+<body>
+    <div class="container">
+        <div class="column">
+            <div class="element big lightgreen"></div>
+            <div class="element big lightsalmon"></div>
+            <div class="element verybig darkgray"></div>
+        </div>
+        <div class="column">
+            <div class="element big bisque"></div>
+            <div class="element lightsalmon"></div>
+            <div class="element lightgreen"></div>
+            <div class="element big darkgray"></div>
+            <div class="element lightsalmon"></div>
+            <div class="element bisque"></div>
+
+        </div>
+        <div class="column">
+            <div class="element darkgray"></div>
+            <div class="element bisque"></div>
+            <div class="element verybig lightsalmon"></div>
+            <div class="element big lightgreen"></div>
+    </div>
+    <div class="column">
+        <div class="element verybig darkgray"></div>
+        <div class="element big lightsalmon"></div>
+        <div class="element bisque"></div>
+        <div class="element lightsalmon"></div>
+    </div>
+    <div class="column">
+        <div class="element big lightgreen"></div>
+        <div class="element verybig lightsalmon"></div>
+        <div class="element big bisque"></div>
+    </div>
+    <div class="column">
+        <div class="element big lightgreen"></div>
+        <div class="element verybig lightsalmon"></div>
+        <div class="element bisque"></div>
+        <div class="element darkgray"></div>
+    </div>
+    <div class="column">
+        <div class="element big lightsalmon"></div>
+        <div class="element verybig lightgreen"></div>
+        <div class="element bisque"></div>
+        <div class="element bisque"></div>
+    </div>
+</body>
+</html>
