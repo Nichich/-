@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\bin\Debug\WpfApp1.Net.exe.config
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\bin\Debug\WpfApp1.Net.exe
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\bin\Debug\WpfApp1.Net.pdb
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1 .Net.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1.Net_MarkupCompile.cache
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1.Net.g.resources
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1.Net.Properties.Resources.resources
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1 .Net.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1 .Net.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1.Net.exe
+C:\Users\denis\source\repos\WpfApp1 .Net\WpfApp1 .Net\obj\Debug\WpfApp1.Net.pdb
